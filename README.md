@@ -6,7 +6,7 @@ The module consists of 5 individual projects all addressing a specific coding ch
 
 1. [CMPG-323-overview---34208887](https://github.com/Anja34208887/CMPG-323-overview---34208887.git)
 2. [CMPG-323-API---34208887](https://github.com/Anja34208887/CMPG-323-API---34208887)
-3. [Repository_3]()
+3. [CMPG-323-Standards-and_Patterns---34208887](https://github.com/Anja34208887/CMPG-323-Standards-and_Patterns---34208887)
 4. [Repository_4]()
 5. [Repository_5]()
 
