@@ -29,7 +29,7 @@ The purpose of the CMPG 323 module is to enhance programming skills across vario
 * Robotic Process Automation (RPA)
 * Data visualising and reporting
 
-Although there are additional programming skills and concepts required to successfully complete the projects, these skills are crucial for passing the module and will be focused on the most.
+Although there are additional programming skills and concepts required to successfully complete the projects, these skills are crucial for passing the module and will be focused on the most..
 
 
 ## Branching Strategy
