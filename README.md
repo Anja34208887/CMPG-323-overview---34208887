@@ -8,7 +8,7 @@ The module consists of 5 individual projects all addressing a specific coding ch
 2. [CMPG-323-API](https://github.com/Anja34208887/CMPG-323-API---34208887)
 3. [CMPG-323-Standards and patterns](https://github.com/Anja34208887/CMPG-323-Standards-and_Patterns---34208887)
 4. [CMPG-323-Testing and RPA](https://github.com/Anja34208887/CMPG-323-Project-4-34208887-)
-5. [Repository_5]()
+5. [CMPG-323-Power BI Reporting](https://github.com/Anja34208887/-CMPG-323-Project-5-34208887)
 
 **NOTE:** The repositories will be created later (when work is initiated on the corresponding project) as this will influence the .gitignore file, the project description and even the project name.
 
